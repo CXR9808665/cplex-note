@@ -98,7 +98,7 @@ subject to{
 
 运行结果：
 
-<img src="/2x+3y.png" style="zoom:50%;" />
+<img src="/picture/2x+3y.png" style="zoom:50%;" />
 
 ### Day 4
 
@@ -140,7 +140,7 @@ eg.2 求解模型 2     01背包问题
 
 定义**变量**  xj, 其中：
 
-<img src="/backpack problem.jpg" style="zoom:50%;" />
+<img src="/picture/backpack problem.jpg" style="zoom:50%;" />
 
 ```OPL
 /*********************************************
@@ -164,7 +164,7 @@ subject to{
 
 运行结果：
 
-<img src="/01backpack_solve.png" style="zoom:50%;" />
+<img src="/picture/01backpack_solve.png" style="zoom:50%;" />
 
 
 
